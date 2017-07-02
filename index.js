@@ -26,5 +26,6 @@ const component = function (state) {
   `
 }
 
+require("setimmediate")
 document.body.appendChild(component(state))
 document.body.style.margin = '0px'
