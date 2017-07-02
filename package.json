@@ -1,0 +1,15 @@
+{
+  "name": "mutant-todos",
+  "version": "1.0.0",
+  "description": "mutant todos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iainkirkpatrick",
+  "license": "ISC",
+  "dependencies": {
+    "hyperx": "^2.3.0",
+    "mutant": "^3.21.2"
+  }
+}
